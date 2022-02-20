@@ -1,0 +1,32 @@
+{
+  "background.useDefaultAsoul": false,
+  "background.sidebarImages": [
+    "/Users/lixiong/Documents/images/spiderGwen4.jpg",
+    "/Users/lixiong/Documents/images/spiderGwen3.jpg",
+    "/Users/lixiong/Documents/images/spiderGwen1.jpg"
+  ],
+  "background.loop": true,
+  "background.customImages": [
+    "/Users/lixiong/Documents/images/spiderman2 (1).jpg",
+    "/Users/lixiong/Documents/images/spiderman3.jpg",
+    "/Users/lixiong/Documents/images/into-the-spider-verse-gwen-stacy-wallpapers.jpg",
+    "/Users/lixiong/Documents/images/spiderman.jpg"
+  ],
+  "seat.enable": true,
+  "asoul.title": "You've been coding for an hour, please stand up for a while for your health.",
+  "asoul.titleAva": "You've been coding for an hour, please stand up for a while for your health.",
+  "asoul.titleBella": "You've been coding for an hour, please stand up for a while for your health.",
+  "asoul.titleCarol": "You've been coding for an hour, please stand up for a while for your health.",
+  "asoul.titleDiana": "You've been coding for an hour, please stand up for a while for your health.",
+  "asoul.titleEileen": "You've been coding for an hour, please stand up for a while for your health.",
+  "asoul.titleOfficial": "You've been coding for an hour, please stand up for a while for your health.",
+  "asoul.type": "url",
+  "asoul.customImages": [
+    "https://images6.alphacoders.com/994/thumbbig-994929.webp",
+    "https://images7.alphacoders.com/994/thumbbig-994927.webp"
+  ],
+  "ycy.title": "You've been coding for an hour, please stand up for a while for your health",
+  "ycy.type": "url",
+  "vscode-live2d.model": "Pio",
+  "vscode-live2d.talk": false
+}
